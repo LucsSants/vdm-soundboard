@@ -1,0 +1,173 @@
+{
+  "sounds": [
+    {
+      "id": "1",
+      "title": "Ah ta",
+      "fileName": "ah-ta.mp3",
+      "colors": ["#0E0C8C" ,"#90076D", "#C20101"]
+    },
+    {
+      "id": "2",
+      "title": "Ahbuahbuabuah",
+      "fileName": "ahbuahbuabuah.mp3",
+      "colors": ["#024314" ,"#059C2F", "#024314"]
+    },
+    {
+      "id": "3",
+      "title": "Ai gostei",
+      "fileName": "ai-gostei.mp3",
+      "colors": ["#266978" ,"#01C3ED", "#266978"]
+    },
+    {
+      "id": "4",
+      "title": "Ai Mamãe, Ai meu deus",
+      "fileName": "ai-mamae-ai-meu-deus.mp3",
+      "colors": ["#637B00" ,"#ADD313", "#637B00"]
+    },
+    {
+      "id": "5",
+      "title": "Ai que cara mais sem graça",
+      "fileName": "ai-que-cara-mais-sem-graca.mp3",
+      "colors": ["#AF5F00" ,"#FF8A00", "#AF5F00"]
+    },
+    {
+      "id": "6",
+      "title": "Ai",
+      "fileName": "ai.mp3",
+      "colors": ["#780000" ,"#ED0606", "#780000"]
+    },
+    {
+      "id": "7",
+      "title": "Aoo potência",
+      "fileName": "aoo-potencia.mp3",
+      "colors": ["#680064" ,"#DA00D1", "#680064"]
+    },
+    {
+      "id": "8",
+      "title": "Atumalaca",
+      "fileName": "atumalaca.mp3",
+      "colors": ["#01004B" ,"#0601FE", "#01004B"]
+    },
+    {
+      "id": "9",
+      "title": "Cavalo",
+      "fileName": "cavalo.mp3",
+      "colors": ["#5A0E25" ,"#FE014D", "#5A0E25"]
+    },
+    {
+      "id": "10",
+      "title": "Cheega",
+      "fileName": "cheega.mp3",
+      "colors": ["#320059" ,"#8F00FF", "#320059"]
+    },
+    {
+      "id": "11",
+      "title": "Dança gatinho dança",
+      "fileName": "danca-gatinho-danca.mp3",
+      "colors": ["#675D00" ,"#E2CC02", "#675D00"]
+    },
+    {
+      "id": "12",
+      "title": "Demais",
+      "fileName": "demais.mp3",
+      "colors": ["#753737" ,"#D68B8B", "#753737"]
+    },
+    {
+      "id": "13",
+      "title": "É brincadeira hein",
+      "fileName": "e-brincadeira-hein.mp3",
+      "colors": ["#FF0000" ,"#FB8181", "#FF0000"]
+    },
+    {
+      "id": "14",
+      "title": "Ele gosta",
+      "fileName": "ele-gosta.mp3",
+      "colors": ["#0E0C8C" ,"#90076D", "#C20101"]
+    },
+    {
+      "id": "15",
+      "title": "Então ta bom",
+      "fileName": "entao-ta-bom.mp3",
+      "colors": ["#024314" ,"#059C2F", "#024314"]
+    },
+    {
+      "id": "16",
+      "title": "Ficou bom não",
+      "fileName": "ficou-bom-nao-hein.mp3",
+      "colors": ["#266978" ,"#01C3ED", "#266978"]
+    },
+    {
+      "id": "17",
+      "title": "IIHÁÁÁ",
+      "fileName": "iiiiiha.mp3",
+      "colors": ["#637B00" ,"#ADD313", "#637B00"]
+    },
+    {
+      "id": "18",
+      "title": " Não",
+      "fileName": "nao.mp3",
+      "colors": ["#780000" ,"#ED0606", "#780000"]
+    },
+    {
+      "id": "19'",
+      "title": "Okay Okay",
+      "fileName": "okay-okay.mp3",
+      "colors": ["#680064" ,"#DA00D1", "#680064"]
+    },
+    {
+      "id": "20",
+      "title": "PARE!",
+      "fileName": "pare.mp3",
+      "colors": ["#01004B" ,"#0601FE", "#01004B"]
+    },
+    {
+      "id": "21",
+      "title": "Que é isso, calma",
+      "fileName": "que-e-isso-calma.mp3",
+      "colors": ["#5A0E25" ,"#FE014D", "#5A0E25"]
+    },
+    {
+      "id": "22",
+      "title": "Que papelão hein",
+      "fileName": "que-papelao-hein.mp3",
+      "colors": ["#320059" ,"#8F00FF", "#320059"]
+    },
+    {
+      "id": "23",
+      "title": "Tapa",
+      "fileName": "tapa.mp3",
+      "colors": ["#675D00" ,"#E2CC02", "#675D00"]
+    },
+    {
+      "id": "24",
+      "title": "Tome",
+      "fileName": "tome.mp3",
+      "colors": ["#753737" ,"#D68B8B", "#753737"]
+    },
+    {
+      "id": "25",
+      "title": "Ui",
+      "fileName": "ui.mp3",
+      "colors": ["#FF0000" ,"#FB8181", "#FF0000"]
+    },
+    {
+      "id": "26",
+      "title": "UUUHH",
+      "fileName": "uuh.mp3",
+      "colors": ["#0E0C8C" ,"#90076D", "#C20101"]
+    },
+    {
+      "id": "27",
+      "title": "Vamo dançar",
+      "fileName": "vamo-dancar.mp3",
+      "colors": ["#024314" ,"#059C2F", "#024314"]
+    },
+    {
+      "id": "28",
+      "title": "XIIIII",
+      "fileName": "xiiii.mp3",
+      "colors": ["#266978" ,"#01C3ED", "#266978"]
+    }
+
+  ]
+}
